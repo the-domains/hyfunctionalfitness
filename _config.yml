@@ -1,14 +1,26 @@
-layout_spectrum: 0.2992831
-typography_spectrum: 0.5179211
 color:
   saturation: 0.5884165
-  lightness: 0.3206591
   brandStrength: 0.297491
+  rhythmicContrast: 0.3140597
   brandColors:
     - '#000000'
     - '#8B8A8B'
     - '#00AEEF'
     - '#313131'
     - '#006E98'
-  rhythmicContrast: 0.3140597
+  lightness: 0.3206591
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.2992831
+typography_spectrum: 0.5179211
 name: Hyfunctionalfitness

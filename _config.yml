@@ -1,4 +1,4 @@
-name: Hyfunctionalfitness
+name: Hyfunctional Fitness
 favicon: null
 layout_spectrum: 0.2992831
 typography_spectrum: 0.5179211
@@ -28,13 +28,13 @@ opengraph:
   appId: null
 color:
   brandColors:
+    - '#8b8a8b'
+    - '#05afe9'
+    - '#7d8d93'
     - '#000000'
-    - '#8B8A8B'
-    - '#00AEEF'
-    - '#313131'
-    - '#006E98'
+    - '#808080'
   brandStrength: 0.297491
   lightness: 0.3206591
   saturation: 0.5884165
-  rhythmicContrast: 0.3140597
+  rhythmicContrast: 0.5
 purpose: []

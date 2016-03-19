@@ -1,40 +1,40 @@
-name: Hyfunctional Fitness
-favicon: null
-layout_spectrum: 0.49998
-typography_spectrum: 0.5179211
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+layout_spectrum: 0.49998
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  domain: null
 color:
+  saturation: 0.5884165
+  brandStrength: 0.297491
+  rhythmicContrast: 0.5
   brandColors:
     - '#8b8a8b'
     - '#05afe9'
     - '#7d8d93'
     - '#000000'
     - '#808080'
-  brandStrength: 0.297491
   lightness: 0.3206591
-  saturation: 0.5884165
-  rhythmicContrast: 0.5
 purpose: []
+favicon: null
+name: Hyfunctional Fitness
+typography_spectrum: 0.5179211

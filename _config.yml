@@ -1,6 +1,6 @@
 name: Hyfunctional Fitness
 favicon: null
-layout_spectrum: 0.49998
+layout_spectrum: 1
 typography_spectrum: 0.5179211
 collections:
   - index:
@@ -34,7 +34,7 @@ color:
     - '#000000'
     - '#808080'
   brandStrength: 0.297491
-  lightness: 0.3206591
+  lightness: 0.5
   saturation: 0.5884165
   rhythmicContrast: 0.5
 purpose: []
